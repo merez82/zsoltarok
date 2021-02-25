@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/zsoltarok/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/zsoltarok/static/js/main.b661f483.chunk.js",
-    "main.js.map": "/zsoltarok/static/js/main.b661f483.chunk.js.map",
-    "runtime-main.js": "/zsoltarok/static/js/runtime-main.62373415.js",
-    "runtime-main.js.map": "/zsoltarok/static/js/runtime-main.62373415.js.map",
-    "static/js/2.0ace9167.chunk.js": "/zsoltarok/static/js/2.0ace9167.chunk.js",
-    "static/js/2.0ace9167.chunk.js.map": "/zsoltarok/static/js/2.0ace9167.chunk.js.map",
-    "static/js/3.9adb80ed.chunk.js": "/zsoltarok/static/js/3.9adb80ed.chunk.js",
-    "static/js/3.9adb80ed.chunk.js.map": "/zsoltarok/static/js/3.9adb80ed.chunk.js.map",
+    "main.js": "/zsoltarok/static/js/main.1baad44e.chunk.js",
+    "main.js.map": "/zsoltarok/static/js/main.1baad44e.chunk.js.map",
+    "runtime-main.js": "/zsoltarok/static/js/runtime-main.753a9c2c.js",
+    "runtime-main.js.map": "/zsoltarok/static/js/runtime-main.753a9c2c.js.map",
+    "static/js/2.36534955.chunk.js": "/zsoltarok/static/js/2.36534955.chunk.js",
+    "static/js/2.36534955.chunk.js.map": "/zsoltarok/static/js/2.36534955.chunk.js.map",
     "index.html": "/zsoltarok/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/zsoltarok/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.0ace9167.chunk.js.LICENSE.txt": "/zsoltarok/static/js/2.0ace9167.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/zsoltarok/static/media/logo.6ce24c58.svg"
+    "static/js/2.36534955.chunk.js.LICENSE.txt": "/zsoltarok/static/js/2.36534955.chunk.js.LICENSE.txt",
+    "static/media/alleluja-4tonus.pdf": "/zsoltarok/static/media/alleluja-4tonus.3908490f.pdf",
+    "static/media/alleluja-4tonus.ogg": "/zsoltarok/static/media/alleluja-4tonus.eacddf91.ogg",
+    "static/media/alleluja-6tonus.ogg": "/zsoltarok/static/media/alleluja-6tonus.3d315749.ogg",
+    "static/media/alleluja-6tonus.pdf": "/zsoltarok/static/media/alleluja-6tonus.e33c357c.pdf",
+    "static/media/alleluja-7tonus.pdf": "/zsoltarok/static/media/alleluja-7tonus.8f1d9fe5.pdf",
+    "static/media/alleluja-7tonus.ogg": "/zsoltarok/static/media/alleluja-7tonus.d86a7006.ogg",
+    "static/media/nagybojt-evangelium-utan.ogg": "/zsoltarok/static/media/nagybojt-evangelium-utan.6d9af50c.ogg",
+    "static/media/nagybojt-evangelium-utan.pdf": "/zsoltarok/static/media/nagybojt-evangelium-utan.f4737728.pdf",
+    "static/media/zsoltar-1tonus.pdf": "/zsoltarok/static/media/zsoltar-1tonus.11e05c98.pdf",
+    "static/media/zsoltar-1tonus.ogg": "/zsoltarok/static/media/zsoltar-1tonus.f2a5f053.ogg",
+    "static/media/zsoltar-2tonus.ogg": "/zsoltarok/static/media/zsoltar-2tonus.46a845a7.ogg",
+    "static/media/zsoltar-2tonus.pdf": "/zsoltarok/static/media/zsoltar-2tonus.b56066f2.pdf",
+    "static/media/zsoltar-8tonus.pdf": "/zsoltarok/static/media/zsoltar-8tonus.0c1f3ae1.pdf",
+    "static/media/zsoltar-8tonus.ogg": "/zsoltarok/static/media/zsoltar-8tonus.87c0505e.ogg"
   },
   "entrypoints": [
-    "static/js/runtime-main.62373415.js",
-    "static/js/2.0ace9167.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.b661f483.chunk.js"
+    "static/js/runtime-main.753a9c2c.js",
+    "static/js/2.36534955.chunk.js",
+    "static/js/main.1baad44e.chunk.js"
   ]
 }
