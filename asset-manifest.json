@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.b661f483.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.b661f483.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.68f81fef.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.68f81fef.js.map",
-    "static/js/2.0ace9167.chunk.js": "/react-gh-pages/static/js/2.0ace9167.chunk.js",
-    "static/js/2.0ace9167.chunk.js.map": "/react-gh-pages/static/js/2.0ace9167.chunk.js.map",
-    "static/js/3.9adb80ed.chunk.js": "/react-gh-pages/static/js/3.9adb80ed.chunk.js",
-    "static/js/3.9adb80ed.chunk.js.map": "/react-gh-pages/static/js/3.9adb80ed.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/react-gh-pages/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.0ace9167.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.0ace9167.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-gh-pages/static/media/logo.6ce24c58.svg"
+    "main.css": "/zsoltarok/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/zsoltarok/static/js/main.b661f483.chunk.js",
+    "main.js.map": "/zsoltarok/static/js/main.b661f483.chunk.js.map",
+    "runtime-main.js": "/zsoltarok/static/js/runtime-main.62373415.js",
+    "runtime-main.js.map": "/zsoltarok/static/js/runtime-main.62373415.js.map",
+    "static/js/2.0ace9167.chunk.js": "/zsoltarok/static/js/2.0ace9167.chunk.js",
+    "static/js/2.0ace9167.chunk.js.map": "/zsoltarok/static/js/2.0ace9167.chunk.js.map",
+    "static/js/3.9adb80ed.chunk.js": "/zsoltarok/static/js/3.9adb80ed.chunk.js",
+    "static/js/3.9adb80ed.chunk.js.map": "/zsoltarok/static/js/3.9adb80ed.chunk.js.map",
+    "index.html": "/zsoltarok/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/zsoltarok/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0ace9167.chunk.js.LICENSE.txt": "/zsoltarok/static/js/2.0ace9167.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/zsoltarok/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.68f81fef.js",
+    "static/js/runtime-main.62373415.js",
     "static/js/2.0ace9167.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.b661f483.chunk.js"
