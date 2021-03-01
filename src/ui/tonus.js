@@ -1,22 +1,13 @@
 import React from 'react';
 import Element from './element.js';
-import oggs, { pdfs } from './dataRepository';
+import getOgg, { getPdf } from '../dataRepository';
 
 class Tonus extends React.Component {
-    getFile(container, fileName) {
-        try {
-            return container[fileName].default;
-        }
-        catch {
-            return null;
-        }
-    }
-
     render() {
-        let zsoltarPdf = this.getFile(pdfs, `zsoltar-${this.props.counter}tonus.pdf`);
-        let zsoltarOgg = this.getFile(oggs, `zsoltar-${this.props.counter}tonus.ogg`);
-        let allelujaPdf = this.getFile(pdfs, `alleluja-${this.props.counter}tonus.pdf`);
-        let allelujaOgg = this.getFile(oggs, `alleluja-${this.props.counter}tonus.ogg`);
+        let zsoltarPdf = getPdf(`zsoltar-${this.props.counter}tonus.pdf`);
+        let zsoltarOgg = getOgg(`zsoltar-${this.props.counter}tonus.ogg`);
+        let allelujaPdf = getPdf(`alleluja-${this.props.counter}tonus.pdf`);
+        let allelujaOgg = getOgg(`alleluja-${this.props.counter}tonus.ogg`);
 
         if ((zsoltarOgg === null ||
             zsoltarPdf === null) &&
