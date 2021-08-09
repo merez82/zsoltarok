@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/zsoltarok/static/js/main.eadf748f.chunk.js",
-    "main.js.map": "/zsoltarok/static/js/main.eadf748f.chunk.js.map",
+    "main.js": "/zsoltarok/static/js/main.eb03002e.chunk.js",
+    "main.js.map": "/zsoltarok/static/js/main.eb03002e.chunk.js.map",
     "runtime-main.js": "/zsoltarok/static/js/runtime-main.753a9c2c.js",
     "runtime-main.js.map": "/zsoltarok/static/js/runtime-main.753a9c2c.js.map",
     "static/js/2.36534955.chunk.js": "/zsoltarok/static/js/2.36534955.chunk.js",
@@ -13,7 +13,7 @@
     "static/media/alleluja-4tonus.pdf": "/zsoltarok/static/media/alleluja-4tonus.3908490f.pdf",
     "static/media/alleluja-4tonus.ogg": "/zsoltarok/static/media/alleluja-4tonus.eacddf91.ogg",
     "static/media/alleluja-5tonus.ogg": "/zsoltarok/static/media/alleluja-5tonus.418d5e46.ogg",
-    "static/media/alleluja-5tonus.pdf": "/zsoltarok/static/media/alleluja-5tonus.4b8596aa.pdf",
+    "static/media/alleluja-5tonus.pdf": "/zsoltarok/static/media/alleluja-5tonus.a827a6d6.pdf",
     "static/media/alleluja-6tonus.ogg": "/zsoltarok/static/media/alleluja-6tonus.3d315749.ogg",
     "static/media/alleluja-6tonus.pdf": "/zsoltarok/static/media/alleluja-6tonus.e33c357c.pdf",
     "static/media/alleluja-7tonus.pdf": "/zsoltarok/static/media/alleluja-7tonus.8f1d9fe5.pdf",
@@ -45,6 +45,6 @@
   "entrypoints": [
     "static/js/runtime-main.753a9c2c.js",
     "static/js/2.36534955.chunk.js",
-    "static/js/main.eadf748f.chunk.js"
+    "static/js/main.eb03002e.chunk.js"
   ]
 }
