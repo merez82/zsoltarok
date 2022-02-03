@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/zsoltarok/static/js/main.da47417a.chunk.js",
-    "main.js.map": "/zsoltarok/static/js/main.da47417a.chunk.js.map",
+    "main.js": "/zsoltarok/static/js/main.cbaf27d5.chunk.js",
+    "main.js.map": "/zsoltarok/static/js/main.cbaf27d5.chunk.js.map",
     "runtime-main.js": "/zsoltarok/static/js/runtime-main.753a9c2c.js",
     "runtime-main.js.map": "/zsoltarok/static/js/runtime-main.753a9c2c.js.map",
     "static/js/2.36534955.chunk.js": "/zsoltarok/static/js/2.36534955.chunk.js",
@@ -28,6 +28,8 @@
     "static/media/zsoltar-10tonus.pdf": "/zsoltarok/static/media/zsoltar-10tonus.7cef1533.pdf",
     "static/media/zsoltar-11tonus.pdf": "/zsoltarok/static/media/zsoltar-11tonus.3f9d5c1d.pdf",
     "static/media/zsoltar-11tonus.ogg": "/zsoltarok/static/media/zsoltar-11tonus.cfa6b0fc.ogg",
+    "static/media/zsoltar-12tonus.ogg": "/zsoltarok/static/media/zsoltar-12tonus.27c0f565.ogg",
+    "static/media/zsoltar-12tonus.pdf": "/zsoltarok/static/media/zsoltar-12tonus.7a0fe732.pdf",
     "static/media/zsoltar-1tonus.pdf": "/zsoltarok/static/media/zsoltar-1tonus.11e05c98.pdf",
     "static/media/zsoltar-1tonus.ogg": "/zsoltarok/static/media/zsoltar-1tonus.f2a5f053.ogg",
     "static/media/zsoltar-2tonus.ogg": "/zsoltarok/static/media/zsoltar-2tonus.46a845a7.ogg",
@@ -49,6 +51,6 @@
   "entrypoints": [
     "static/js/runtime-main.753a9c2c.js",
     "static/js/2.36534955.chunk.js",
-    "static/js/main.da47417a.chunk.js"
+    "static/js/main.cbaf27d5.chunk.js"
   ]
 }
