@@ -4,7 +4,7 @@ import Tonus from './ui/tonus';
 import ColorProvider from './colorProvider';
 import SingleElement from './ui/singleElement';
 
-const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
+const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
 let colorProvider = new ColorProvider();
 const tonusok = numbers.map(function (number, i) {
     return <Tonus counter={number} colourClass={colorProvider.getColour()} />
