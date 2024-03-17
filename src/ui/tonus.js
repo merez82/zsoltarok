@@ -17,11 +17,11 @@ class Tonus extends React.Component {
         }
 
         let className = `w3-container ${this.props.colourClass}`;
-        let zsoltarElement = <Element title="Zsoltár"
+        let zsoltarElement = zsoltarPdf && <Element title="Zsoltár"
             pdfFile={zsoltarPdf}
             oggFile={zsoltarOgg} />;
 
-        let allelujaElement = <Element title="Alleluja"
+        let allelujaElement = allelujaPdf && <Element title="Alleluja"
             pdfFile={allelujaPdf}
             oggFile={allelujaOgg} />;
 
