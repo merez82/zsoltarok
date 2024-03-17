@@ -18,7 +18,7 @@ function getPdf(pdfFile){
 
 function getFile(container, fileName) {
     try {
-        return container[fileName].default;
+        return container[fileName];
     }
     catch {
         return null;
