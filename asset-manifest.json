@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/zsoltarok/static/js/main.df5480ea.js",
+    "main.js": "/zsoltarok/static/js/main.5a0078ec.js",
     "static/media/zsoltar-6tonus.ogg": "/zsoltarok/static/media/zsoltar-6tonus.eb73de4eeadd38c05144.ogg",
     "static/media/zsoltar-5tonus.ogg": "/zsoltarok/static/media/zsoltar-5tonus.d8b70dc739ec4c75ee67.ogg",
     "static/media/zsoltar-4tonus.ogg": "/zsoltarok/static/media/zsoltar-4tonus.2b484c2b2fe24556ed3b.ogg",
@@ -22,6 +22,8 @@
     "static/media/zsoltar-7tonus.ogg": "/zsoltarok/static/media/zsoltar-7tonus.979ab713d7979110cdd6.ogg",
     "static/media/zsoltar-5tonus-orgona.ogg": "/zsoltarok/static/media/zsoltar-5tonus-orgona.89fe67423d998ab22351.ogg",
     "static/media/zsoltar-2tonus.ogg": "/zsoltarok/static/media/zsoltar-2tonus.46a845a7a88e47148173.ogg",
+    "static/media/alleluja-9tonus.pdf": "/zsoltarok/static/media/alleluja-9tonus.2928685c0343c3897c44.pdf",
+    "static/media/alleluja-1tonus.pdf": "/zsoltarok/static/media/alleluja-1tonus.e655fc4b8d3c85f6c1ac.pdf",
     "static/media/zsoltar-3tonus.pdf": "/zsoltarok/static/media/zsoltar-3tonus.f589e5da75b896a8d071.pdf",
     "static/media/zsoltar-7tonus.pdf": "/zsoltarok/static/media/zsoltar-7tonus.94caf57b26cc3f536787.pdf",
     "static/media/zsoltar-1tonus.pdf": "/zsoltarok/static/media/zsoltar-1tonus.abf02a94a8f7fe748744.pdf",
@@ -43,9 +45,9 @@
     "static/media/alleluja-6tonus.pdf": "/zsoltarok/static/media/alleluja-6tonus.e33c357c964527218438.pdf",
     "static/media/alleluja-4tonus.pdf": "/zsoltarok/static/media/alleluja-4tonus.3908490fb361ecb76a53.pdf",
     "index.html": "/zsoltarok/index.html",
-    "main.df5480ea.js.map": "/zsoltarok/static/js/main.df5480ea.js.map"
+    "main.5a0078ec.js.map": "/zsoltarok/static/js/main.5a0078ec.js.map"
   },
   "entrypoints": [
-    "static/js/main.df5480ea.js"
+    "static/js/main.5a0078ec.js"
   ]
 }
